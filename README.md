@@ -7,7 +7,8 @@ Guide How to Deploy Seismic Devnet Contract
 # 1. Install Rust
 
 ```
-curl https://sh.rustup.rs -sSf | sh  
+curl https://sh.rustup.rs -sSf | sh -s -- -y
+  
 . "$HOME/.cargo/env"
 ```
 
